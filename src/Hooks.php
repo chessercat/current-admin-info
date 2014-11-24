@@ -1,6 +1,6 @@
 <?php
 
-namespace WCM\CurrentAdminInfo;
+namespace WCM\CurrentAdminInfo; //CompanyName\PluginName
 
 /**
  * @package    Current Admin Info
